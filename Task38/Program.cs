@@ -24,12 +24,14 @@ double MassiveDifFinder(double[] array)
         {
             max = array[count];
         }
-        if (array[count] < min)
+
+        else if (array[count] < min)
         {
             min = array[count];
         }
-        count++;
     }
+    Console.WriteLine("min " + min);
+    Console.WriteLine("max " + max);
     double result = max - min;
     return result;
 }

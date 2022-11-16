@@ -17,7 +17,7 @@ int[] MassiveCreator()
 int MassiveUnevenSummer(int[] array)
 {
     int sum = 0;
-    for (int count = 0; count < array.Length; count = count + 2)
+    for (int count = 1; count < array.Length; count = count + 2)
     {
         sum = sum + array[count];
     }
