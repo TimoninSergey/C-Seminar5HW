@@ -1,0 +1,15 @@
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\bin\Debug\net6.0\Task38.exe
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\bin\Debug\net6.0\Task38.deps.json
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\bin\Debug\net6.0\Task38.runtimeconfig.json
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\bin\Debug\net6.0\Task38.dll
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\bin\Debug\net6.0\Task38.pdb
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.csproj.AssemblyReference.cache
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.AssemblyInfoInputs.cache
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.AssemblyInfo.cs
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.csproj.CoreCompileInputs.cache
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.dll
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\refint\Task38.dll
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.pdb
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\Task38.genruntimeconfig.cache
+C:\Users\SERGEY\Desktop\C#Seminar5HW\Task38\obj\Debug\net6.0\ref\Task38.dll
